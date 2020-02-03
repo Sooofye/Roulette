@@ -1,0 +1,39 @@
+html {
+	background: rgb(63,94,251);
+	background: radial-gradient(circle, rgba(80,94,80,.8) 0%, rgba(25,13,55,.8) 100%);
+	color: #FFFFFF;
+	margin: 10vh 10vw auto 10vw;
+	border: solid 1px white;
+}
+
+a {
+	color: grey;
+}
+
+header {
+	text-align:center;
+}
+
+#hello {
+	text-align:right;
+}
+
+h2+p {
+	text-align:right;
+}
+
+input {
+	margin:1em 1em 1em 0;
+}
+
+label {
+	margin:1em 1em 1em 0;
+}
+
+.container {
+	margin: 10vh 10vw auto 10vw;
+}
+
+footer {
+	margin-top: 6vh;
+}
